@@ -1,0 +1,1 @@
+# Analysis-of-induction-motor-in-steady-state-for-maximum-efficiency
